@@ -77,7 +77,7 @@ My Profile
   curious
 * Favorite words: "justice", "potential", "freedom", "contribute"
 * Profession: Software Engineer/general management at a social gaming
-  company (I have beenworking as an engineer for 7 years: Java ->
+  company (I have been working as an engineer for 7 years: Java ->
   mobile content -> social games -> kicking back in general affairs).
 * Languages: Java, PHP, Perl, HTML, JavaScript, Excel VBA (I have also
   recently started using Ruby and C).
